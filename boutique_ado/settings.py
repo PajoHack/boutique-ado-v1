@@ -29,6 +29,7 @@ DEBUG = True
 ALLOWED_HOSTS = [
     '8000-pajohack-boutiqueadov1-kcd2cfsywsr.ws-eu102.gitpod.io',
     '8000-pajohack-boutiqueadov1-kcd2cfsywsr.ws-eu103.gitpod.io',
+    '8000-pajohack-boutiqueadov1-kcd2cfsywsr.ws-eu104.gitpod.io',
 ]
 
 
