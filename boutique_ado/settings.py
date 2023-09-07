@@ -33,6 +33,7 @@ ALLOWED_HOSTS = [
     '8000-pajohack-boutiqueadov1-kcd2cfsywsr.ws-eu104.gitpod.io',
     'boutique-ado.herokuapp.com',
     'localhost',
+    'boutique-ado-ie-27ee726b4739.herokuapp.com',
 ]
 
 
